@@ -1,25 +1,26 @@
-## Yael Triana
+Computer Systems Engineering Student
 
-Computer Systems Engineering Student  
 Interested in Infrastructure, IoT and Monitoring Systems.
-Currently building projects around telemetry, observability and distributed systems.
 
-Looking for internships in infrastructure, data or backend engineering.
+Currently building projects around:
 
-### Tech
-**Languages**
+• Observability
+• Telemetry pipelines
+• Distributed systems
 
+Looking for internships in:
+
+• Backend
+• Infrastructure
+• Data Engineering
+
+Tech
+
+Languages
 Python, C/C++, JavaScript, Bash
 
-**Infrastructure**
-
+Infrastructure
 Docker, Linux, Networking
 
-**Monitoring**
-
+Monitoring
 Prometheus, MQTT
-
-### Featured Project
-IoT Motor Monitoring System
-
-Industrial IoT simulation where multiple motors publish telemetry via MQTT while Prometheus exposes monitoring metrics for monitoring systems.
